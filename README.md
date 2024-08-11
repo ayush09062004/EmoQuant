@@ -1,9 +1,9 @@
 # EmoQuant
 Quantitative Emotion and Sentiment Analysis for Teletherapy 
 # Notable Achievement
-Build this prototype during SARAS-AI Pan IIT,NIT & Bits OpenCV themed hackathon called Clash of T-AI-TANS.
-AIR-2
-Runner up's of the contest
+Build this prototype during SARAS-AI Institute Pan IIT,NIT & Bits OpenCV-themed hackathon called Clash of T-AI-TANS.
+<br>**AIR-2**
+<br>**Runner up's of the contest**
 # Problem Statement
 ### EmoQuant Overview
 
