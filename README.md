@@ -48,6 +48,12 @@ EmoQuant enhances Teletherapy by offering quantitative emotion and sentiment ana
  5. Audio Transcription based on Whisper & Google Speech recgnizer
  6. Transcription based Sentiment Analysis using ncrlex & textblob
  7. Frontend of the website using HTML,CSS,JavaScript & Backend using Flask
+![Screenshot (26)](https://github.com/user-attachments/assets/525f4da3-45dc-41a8-a6e9-0b09c73ecd12)
+![Screenshot (27)](https://github.com/user-attachments/assets/020787b2-a474-4664-949d-b67f6b20e4ee)
+![Screenshot (31)](https://github.com/user-attachments/assets/a5e093c0-8ad3-4b96-8164-e0c6dbf7e77f)
+![Screenshot (33)](https://github.com/user-attachments/assets/d4b17c92-49d4-40c0-9bf0-97238d3b9439)
+![Screenshot (34)](https://github.com/user-attachments/assets/07f40b59-0fbf-444c-a0b1-14970aa0930b)
+
 
 # Pending Works
 1. Enhancing UI/UX & user experience.
