@@ -57,7 +57,8 @@ EmoQuant enhances Teletherapy by offering quantitative emotion and sentiment ana
 5. Data research on person's condition & emotion analysis [Feedback testing]
 
 # Our product will be Back Soon :))))) 
-We are currently available at https://github.com/ayush09062004/EmoQuantWebsite 
+We are currently available at https://ayush09062004.github.io/WebAppEmoQuant/ 
+Repository :- https://github.com/ayush09062004/WebAppEmoQuant 
 
 # Contribution Map
 1. Ayush Raj (Ideation, Product Development Roadmap, Model training using Deep Learning, Python programming for all the features, Front-end skeleton, Currently doing backend using Flask)
