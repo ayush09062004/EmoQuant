@@ -8,7 +8,10 @@ Build this prototype during SARAS-AI Institute Pan IIT,NIT & Bits OpenCV-themed 
 ### EmoQuant Overview
 
 EmoQuant enhances Teletherapy by offering quantitative emotion and sentiment analysis tools. It analyzes video recordings of therapy sessions using OpenCV for face detection and deep learning models (AffectNet & FER-2013) for emotion recognition. Audio is also analyzed via Speech-to-Text API and sentiment analysis tools. The system provides therapists with a detailed dashboard of patient emotional trends, enabling data-driven, personalized care. By quantifying emotions, EmoQuant helps in tracking progress, tailoring interventions, early detection of issues, and advancing mental health research.
-
+# Contribution Map
+1. Ayush Raj (Ideation, Product Development Roadmap, Model training using Deep Learning, Python programming for all the features, Front-end skeleton & New page for every feature, Currently doing backend using Flask)
+2. Hardik Goyal (Web-conferencing development, Front-end, Video-editing & presentation)
+3. Akshita R.(Front-end design, Presentation  & documentation)
 ### Benefits for Therapy Types
 
 - **Cognitive Behavioral Therapy (CBT)**
@@ -69,8 +72,5 @@ EmoQuant enhances Teletherapy by offering quantitative emotion and sentiment ana
 We are currently available at https://ayush09062004.github.io/WebAppEmoQuant/ 
 Repository :- https://github.com/ayush09062004/WebAppEmoQuant 
 
-# Contribution Map
-1. Ayush Raj (Ideation, Product Development Roadmap, Model training using Deep Learning, Python programming for all the features, Front-end skeleton, Currently doing backend using Flask)
-2. Hardik Goyal (Web-conferencing devlopment, Front-end, Video-editing)
-3. Akshita R(Front-end design, Presentation  & documentation)
+
 
